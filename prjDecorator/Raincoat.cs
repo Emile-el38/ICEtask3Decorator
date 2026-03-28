@@ -1,4 +1,4 @@
-using prjDecorator;
+namespace prjDecorator;
 
 public class Raincoat : ClothingDecorator
 {

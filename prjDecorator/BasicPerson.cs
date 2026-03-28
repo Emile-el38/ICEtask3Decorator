@@ -1,4 +1,6 @@
-using prjDecorator;
+
+
+namespace prjDecorator;
 
 public class BasicPerson : Human
 {

@@ -1,4 +1,4 @@
-using prjDecorator;
+namespace prjDecorator;
 
 public abstract class ClothingDecorator : Human
 {

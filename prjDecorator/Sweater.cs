@@ -1,5 +1,4 @@
-using prjDecorator;
-
+namespace prjDecorator;
 public class Sweater : ClothingDecorator
 {
     public Sweater(Human human) : base(human) {}

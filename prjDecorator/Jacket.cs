@@ -1,5 +1,5 @@
 using System.Security.Cryptography.X509Certificates;
-using prjDecorator;
+namespace prjDecorator;
 
 public class Jacket : ClothingDecorator
 {

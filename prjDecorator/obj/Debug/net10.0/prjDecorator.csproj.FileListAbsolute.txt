@@ -1,0 +1,15 @@
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.AssemblyInfoInputs.cache
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.AssemblyInfo.cs
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.csproj.CoreCompileInputs.cache
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.sourcelink.json
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\bin\Debug\net10.0\prjDecorator.exe
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\bin\Debug\net10.0\prjDecorator.deps.json
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\bin\Debug\net10.0\prjDecorator.runtimeconfig.json
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\bin\Debug\net10.0\prjDecorator.dll
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\bin\Debug\net10.0\prjDecorator.pdb
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.dll
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\refint\prjDecorator.dll
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.pdb
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\prjDecorator.genruntimeconfig.cache
+C:\Users\denit\OneDrive - ADvTECH Ltd\Documents\PROG SEM 5\DcoratorICE3\ICEtask3Decorator\prjDecorator\obj\Debug\net10.0\ref\prjDecorator.dll

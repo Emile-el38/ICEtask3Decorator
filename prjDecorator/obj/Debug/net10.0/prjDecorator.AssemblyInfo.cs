@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prjDecorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b8c0f701acfbfe2346ba85bf28c8d4e61d303c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("prjDecorator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prjDecorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
